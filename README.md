@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://placehold.co/900x220/3B091E/E2B8CA?text=Laguna+Breeze+Lodge&font=roboto" width="100%"/>
+<img width="1279" height="717" alt="image" src="https://github.com/user-attachments/assets/60e9ac6a-6f84-45b1-ab1b-928a209649be" />
 
 # 🏨 Laguna Breeze Lodge
 
